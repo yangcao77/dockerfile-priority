@@ -1,8 +1,0 @@
-schemaVersion: 2.1.0
-metadata:
-  name: python
-  displayName: Python
-  description: test
-  projectType: Python
-  language: Python
-  version: 2.0.2
